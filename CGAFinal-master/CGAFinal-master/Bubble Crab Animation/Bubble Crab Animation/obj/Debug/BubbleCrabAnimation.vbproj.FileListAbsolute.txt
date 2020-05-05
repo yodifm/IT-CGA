@@ -1,0 +1,21 @@
+C:\Users\Michael\source\CGA\Bubble Crab Animation\bin\Debug\WindowsApplication56.exe
+C:\Users\Michael\source\CGA\Bubble Crab Animation\bin\Debug\WindowsApplication56.pdb
+C:\Users\Michael\source\CGA\Bubble Crab Animation\bin\Debug\WindowsApplication56.xml
+C:\Users\Michael\source\CGA\Bubble Crab Animation\obj\Debug\BubbleCrabAnimation.vbprojAssemblyReference.cache
+C:\Users\Michael\source\CGA\Bubble Crab Animation\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\Michael\source\CGA\Bubble Crab Animation\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Michael\source\CGA\Bubble Crab Animation\obj\Debug\BubbleCrabAnimation.vbproj.GenerateResource.cache
+C:\Users\Michael\source\CGA\Bubble Crab Animation\obj\Debug\BubbleCrabAnimation.vbproj.CoreCompileInputs.cache
+C:\Users\Michael\source\CGA\Bubble Crab Animation\obj\Debug\WindowsApplication56.exe
+C:\Users\Michael\source\CGA\Bubble Crab Animation\obj\Debug\WindowsApplication56.xml
+C:\Users\Michael\source\CGA\Bubble Crab Animation\obj\Debug\WindowsApplication56.pdb
+F:\CGA Final1\Bubble Crab Animation\bin\Debug\WindowsApplication56.exe
+F:\CGA Final1\Bubble Crab Animation\bin\Debug\WindowsApplication56.pdb
+F:\CGA Final1\Bubble Crab Animation\bin\Debug\WindowsApplication56.xml
+F:\CGA Final1\Bubble Crab Animation\obj\Debug\BubbleCrabAnimation.vbprojAssemblyReference.cache
+F:\CGA Final1\Bubble Crab Animation\obj\Debug\WindowsApplication1.Form1.resources
+F:\CGA Final1\Bubble Crab Animation\obj\Debug\WindowsApplication1.Resources.resources
+F:\CGA Final1\Bubble Crab Animation\obj\Debug\BubbleCrabAnimation.vbproj.GenerateResource.cache
+F:\CGA Final1\Bubble Crab Animation\obj\Debug\WindowsApplication56.exe
+F:\CGA Final1\Bubble Crab Animation\obj\Debug\WindowsApplication56.xml
+F:\CGA Final1\Bubble Crab Animation\obj\Debug\WindowsApplication56.pdb
